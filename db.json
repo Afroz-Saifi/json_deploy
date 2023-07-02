@@ -1,0 +1,26 @@
+{
+    "students": [
+        {
+            "name": "bahubali",
+            "class": "12th",
+            "address": "Maheshmati"
+        },
+        {
+            "name": "Thor",
+            "class": "1500",
+            "address": "Asgard"
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Thanos",
+            "subject": "War",
+            "address": "Titan"
+        },
+        {
+            "name": "Loki",
+            "subject": "Mischeaf",
+            "address": "Asgard"
+        }
+    ]
+}
